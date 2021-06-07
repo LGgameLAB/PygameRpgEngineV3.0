@@ -38,9 +38,9 @@ buffer = 1/fps
 
 gameVariables = {}
 
-print(os.getcwd())
+#print(os.path.)
 def path(fileName):
-    return os.getcwd() + "/assets/" + fileName
+    return "../assets/" + fileName
 
 dialogueBox1 = path('dialogueBox.png')
 dialogueBoxSize = (winWidth, int(winHeight/4))

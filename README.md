@@ -1,4 +1,5 @@
 ## pyRPG Engine v3.0
+> this project is deprecated due to poor code structure and inefficiency
 
 Make your RPG stories come to life with this python/pygame RPG engine supportive of tiled map rendering and object loading.
 
